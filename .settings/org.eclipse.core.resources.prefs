@@ -1,0 +1,5 @@
+eclipse.preferences.version=1
+encoding//WebContent/Common/Footer.jsp=UTF-8
+encoding//WebContent/Common/Header1.jsp=UTF-8
+encoding//src/kr/kamgaru/DAO/MemberDAO.java=UTF-8
+encoding//src/kr/kamgaru/ajax/NicknameCheck.java=UTF-8
