@@ -6,9 +6,12 @@
 	<meta charset="UTF-8">
 	<title>캠거루</title>
 	
-
-	<script type="text/javascript" src="js/list.index.js"></script>
 	<script type="text/javascript" src="js/jquery-3.2.1.min.js"></script>
+	<script type="text/javascript" src="js/underscore.js"></script>
+	<script type="text/javascript" src="js/common.js"></script>
+	<script type="text/javascript" src="js/list.index.js"></script>
+
+
 	
 	<link rel="stylesheet" type="text/css" href="css/common.css">
 	<link rel="stylesheet" type="text/css" href="css/Index.css">
