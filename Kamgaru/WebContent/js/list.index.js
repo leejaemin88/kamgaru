@@ -40,16 +40,14 @@ cp.pageindex = {
   //동아리
   loadClubRecruits: function (callback) {
     $.ajax({
-      url: 'recuit.json',
+      url: 'GroupIndex',
       type: 'POST',
       dataType: 'json',
       data: {
         limit: 6
       },
       success: function (response) {
-        if (response.status === 'success') {
-          callback(response.result);
-        }
+          callback(response);
       }
     });
   },

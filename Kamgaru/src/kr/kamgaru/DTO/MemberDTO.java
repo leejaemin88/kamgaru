@@ -18,7 +18,6 @@ public class MemberDTO {
 		this.name = name;
 		this.nickname = nickname;
 		
-		
 	}
 
 	public String getUniversity() {
