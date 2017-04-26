@@ -37,7 +37,7 @@
 				</div>
 				
 				<ol class="items">
-					<div class="loading"><img src="/images/community.loading.svg"></div>
+					<div class="loading"><img src="/images/loading.svg"></div>
 				</ol>
 				
 				<div class="buttons">
@@ -53,7 +53,7 @@
 				</div>
 				
 				<ol class="items">
-					<div class="loading"><img src="/images/community.loading.svg"></div>
+					<div class="loading"><img src="/images/loading.svg"></div>
 				</ol>
 				
 				<div class="buttons">
@@ -70,7 +70,7 @@
 				</div>
 				
 				<ol class="items">
-					<div class="loading"><img src="/images/community.loading.svg"></div>
+					<div class="loading"><img src="/images/loading.svg"></div>
 				</ol>
 			
 				<div class="buttons">
@@ -88,7 +88,7 @@
 				</div>
 				
 				<ol class="items">
-          			<div class="loading"><img src="/images/community.loading.svg"></div>
+          			<div class="loading"><img src="/images/loading.svg"></div>
 				</ol>
 			
 				<div class="buttons">
